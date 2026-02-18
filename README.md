@@ -55,7 +55,7 @@ Me chamo Anna Carolina, tenho 26 anos e sou da Paraíba. Atualmente, estou cursa
 ### 📊 Contate-me
 
 <p>
-Meu Linkedin "(https://www.linkedin.com/in/alvescarol07)"
+Meu Linkedin https://www.linkedin.com/in/alvescarol07
 
 </p>
 
